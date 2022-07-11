@@ -1,0 +1,11 @@
+C:\Users\ariel\source\repos\Tarea navegador\bin\Debug\Tarea navegador.exe.config
+C:\Users\ariel\source\repos\Tarea navegador\bin\Debug\Tarea navegador.exe
+C:\Users\ariel\source\repos\Tarea navegador\bin\Debug\Tarea navegador.pdb
+C:\Users\ariel\source\repos\Tarea navegador\obj\Debug\Tarea navegador.csproj.AssemblyReference.cache
+C:\Users\ariel\source\repos\Tarea navegador\obj\Debug\Tarea navegador.csproj.SuggestedBindingRedirects.cache
+C:\Users\ariel\source\repos\Tarea navegador\obj\Debug\Tarea_navegador.Form1.resources
+C:\Users\ariel\source\repos\Tarea navegador\obj\Debug\Tarea_navegador.Properties.Resources.resources
+C:\Users\ariel\source\repos\Tarea navegador\obj\Debug\Tarea navegador.csproj.GenerateResource.cache
+C:\Users\ariel\source\repos\Tarea navegador\obj\Debug\Tarea navegador.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Tarea navegador\obj\Debug\Tarea navegador.exe
+C:\Users\ariel\source\repos\Tarea navegador\obj\Debug\Tarea navegador.pdb
